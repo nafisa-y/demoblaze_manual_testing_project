@@ -62,8 +62,7 @@ This experience reinforced the critical role of thorough manual testing in ensur
 
 ## 📂 Deliverables
 - `Nafisa_Manual_Testing_Project_Summary.pdf` – Detailed project report  
-- `Demoblaze_Test_Cases.xlsx` – Test case documentation (Excel sheet)  
-- `Screenshots/` – (Optional) Supporting visuals from testing  
+- `Demoblaze_Test_Cases.xlsx` – Test case documentation (Excel sheet)    
 
 ---
 
@@ -72,4 +71,4 @@ Hi, I’m **Nafisa Yesmin**, a Computer Science student passionate about **Softw
 I enjoy analyzing real-world applications, identifying usability issues, and ensuring seamless user experiences through structured testing practices.
 
 📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/) | [Email](mailto:youremail@example.com)
+[LinkedIn](https://www.linkedin.com/nafisay) | [Email](mailto:nafisayesmin20@gmail.com.com)
