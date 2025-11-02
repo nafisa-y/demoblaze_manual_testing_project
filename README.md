@@ -71,4 +71,4 @@ Hi, I’m **Nafisa Yesmin**, a Computer Science student passionate about **Softw
 I enjoy analyzing real-world applications, identifying usability issues, and ensuring seamless user experiences through structured testing practices.
 
 📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/nafisay) | [Email](mailto:nafisayesmin20@gmail.com.com)
+[LinkedIn](https://www.linkedin.com/nafisay) | [Email](mailto:nafisayesmin20@gmail.com)
